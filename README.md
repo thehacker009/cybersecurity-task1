@@ -1,3 +1,4 @@
+
 # 🔐 Cyber Security Internship Task 1
 
 ## 📌 Task Objective
